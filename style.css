@@ -1,0 +1,65 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+}
+
+.head-img{
+  width: 20%;
+}
+
+.intro{
+  text-align: center;
+}
+
+.intro-h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-size: 4rem;
+}
+
+.h1-img{
+  width: 60%;
+}
+
+.r-img{
+  position: absolute;
+  right: -50px;
+}
+
+.l-img{
+  position: absolute;
+  left: -50px;
+}
+
+.main-div{
+  padding-top: 5%;
+  font-weight: bold;
+
+}
+.calculator-div{
+  padding-top: 5%;
+  font-weight: bold;
+  background-color: #fceef5;
+  padding-left: 10px;
+  padding-bottom: 5%;
+}
+.beats-input{
+  border-radius: 5px;
+  width: 7%;
+}
+
+.calc-button{
+  margin-right: 20px;
+}
+
+.desc{
+  text-align: center;
+}
+
+.resault-div{
+  padding-top: 5%;
+}
+
+button{
+
+}
