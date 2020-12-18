@@ -24,7 +24,7 @@ function calc() {
       break;
     case "day":
       var beats = 1440 * beats;
-      timetext="Beats in a day: ";
+      timetext="Beats in a dayy: ";
       break;
     case "week":
       var beats = 10080 * beats;
